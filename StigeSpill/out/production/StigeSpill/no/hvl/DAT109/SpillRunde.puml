@@ -1,0 +1,17 @@
+@startuml
+loop for hver spiller
+    Spiller -> Stigespill
+    Stigespill -> Terning : Trill()
+    Terning -> Stigespill
+    Stigespill -> Spiller
+    Spiller -> Stigespill : flyttBrikke(brikke, plasser)
+    Stigespill -> Brett : flyttBrikke(brikke, plasser)
+    Brett-> Rute
+    alt Havner på stige
+        Rute -> Rute
+    end
+    == Hvis 6'er fra trill(), utfør trill() igjen ==
+end
+
+
+@enduml

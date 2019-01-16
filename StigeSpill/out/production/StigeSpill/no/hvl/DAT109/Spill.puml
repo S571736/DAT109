@@ -1,0 +1,8 @@
+@startuml
+loop antall spillere
+    Stigespill -> Stigespill : opprettSpiller()
+end
+loop til ein spiller har vunnet
+Stigespill -> Stigespill : spillRunde()
+end
+@enduml
