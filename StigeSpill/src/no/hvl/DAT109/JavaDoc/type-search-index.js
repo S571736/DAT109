@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"no.hvl.DAT109","l":"Brett"},{"p":"no.hvl.DAT109","l":"Brikke"},{"p":"no.hvl.DAT109","l":"Rute"},{"p":"no.hvl.DAT109","l":"Spiller"},{"p":"no.hvl.DAT109","l":"StigeSpill"},{"p":"no.hvl.DAT109","l":"Terning"}]

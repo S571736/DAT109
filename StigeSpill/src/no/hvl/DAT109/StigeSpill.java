@@ -3,7 +3,7 @@ package no.hvl.DAT109;
 import java.util.ArrayList;
 
 public class StigeSpill {
-    public Brett brett;
+    public Integer[] brett = new Integer[100];
     public ArrayList<Spiller> spillere = new ArrayList<Spiller>();
     public Terning terning;
     private Spiller enSpiller;
@@ -27,7 +27,7 @@ public class StigeSpill {
     private void spillRundeAuto(){
         while(status==false){
             int pos = enSpiller.getBrikke().getPos();
-            
+
         }
     }
 }
