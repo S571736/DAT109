@@ -1,5 +1,9 @@
 package no.hvl.DAT109;
 
 public class Brikke {
-    Rute rute;
+    String farge;
+
+    public Brikke(String farge) {
+        this.farge = farge;
+    }
 }

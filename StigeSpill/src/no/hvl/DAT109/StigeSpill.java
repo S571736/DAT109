@@ -7,9 +7,10 @@ public class StigeSpill {
     public ArrayList<Spiller> spillere = new ArrayList<Spiller>();
     public Terning terning;
 
-    public Spiller opprettSpiller() {
+    public Spiller opprettSpiller(String spillernavn) {
         //TODO
-        return null;
+        Spiller spiller = new Spiller(spillernavn);
+        return spiller;
     }
 
     public void spillRunde() {

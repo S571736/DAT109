@@ -7,6 +7,6 @@ public class Brett {
 
 
     public void flyttBrikke(Brikke brikke, int plasser){
-        //TODO
+
     }
 }
