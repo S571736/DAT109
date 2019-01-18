@@ -6,6 +6,8 @@ public class StigeSpill {
     public Brett brett;
     public ArrayList<Spiller> spillere = new ArrayList<Spiller>();
     public Terning terning;
+    private Spiller enSpiller;
+    private boolean status = false;
 
     public Spiller opprettSpiller(String spillernavn) {
         //TODO
@@ -13,7 +15,18 @@ public class StigeSpill {
         return spiller;
     }
 
-    public void spillRunde() {
+    public void init(){
+        //opprettSpiller("Solo");
+        enSpiller.getBrikke().setPos(0);
+    }
+
+    public void spillRundeMan() {
         //TODO
+    }
+
+    public void spillRundeAuto(){
+        while(status==false){
+
+        }
     }
 }

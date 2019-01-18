@@ -12,6 +12,10 @@ public class Rute {
         this.nesteRute = ruteNr++;
     }
 
+    public void setForrige(int forrigeRute) {
+        this.forrigeRute = forrigeRute;
+    }
+
     public Rute(int ruteNr, int stigeTil) {
         this.ruteNr = ruteNr;
         this.forrigeRute = ruteNr--;
