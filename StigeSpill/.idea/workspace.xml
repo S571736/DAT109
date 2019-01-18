@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a27a7e3-ab85-4995-aa50-f0cdd8673334" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/no/hvl/DAT109/Brett.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/no/hvl/DAT109/Brett.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/no/hvl/DAT109/Brikke.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/no/hvl/DAT109/Brikke.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/no/hvl/DAT109/Rute.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/no/hvl/DAT109/Rute.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/no/hvl/DAT109/Spiller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/no/hvl/DAT109/Spiller.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/no/hvl/DAT109/StigeSpill.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/no/hvl/DAT109/StigeSpill.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -29,11 +26,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/no/hvl/DAT109/StigeSpill.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="40" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
+            <state relative-caret-position="493">
+              <caret line="29" column="12" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -79,11 +76,15 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/no/hvl/DAT109/Brikke.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+            <state relative-caret-position="306">
+              <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+              <folding>
+                <element signature="e#305#306#0" expanded="true" />
+                <element signature="e#331#332#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -213,7 +214,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547820237547" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547820238653" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
@@ -292,7 +293,7 @@
       <workItem from="1547803949170" duration="642000" />
       <workItem from="1547806070961" duration="238000" />
       <workItem from="1547808288041" duration="1504000" />
-      <workItem from="1547817615445" duration="2617000" />
+      <workItem from="1547817615445" duration="4302000" />
     </task>
     <servers />
   </component>
@@ -305,7 +306,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12640000" />
+    <option name="totallyTimeSpent" value="14325000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -422,17 +423,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/no/hvl/DAT109/StigeSpill.java">
+    <entry file="file://$PROJECT_DIR$/src/no/hvl/DAT109/Brikke.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="40" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
+        <state relative-caret-position="306">
+          <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+          <folding>
+            <element signature="e#305#306#0" expanded="true" />
+            <element signature="e#331#332#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/no/hvl/DAT109/Brikke.java">
+    <entry file="file://$PROJECT_DIR$/src/no/hvl/DAT109/StigeSpill.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+        <state relative-caret-position="493">
+          <caret line="29" column="12" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="12" />
         </state>
       </provider>
     </entry>

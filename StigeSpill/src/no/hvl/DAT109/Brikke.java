@@ -2,13 +2,20 @@ package no.hvl.DAT109;
 
 public class Brikke {
     String farge;
-    Rute rute;
+    Brett brett;
+
+
     public Brikke(String farge) {
         this.farge = farge;
-        this.rute = rute;
+        this.brett = brett;
+
     }
 
-    public void setPos(int nyPos){
+    public void setPos(int nyPos) {
 
+    }
+
+    public int getPos(){
+        return 0;
     }
 }

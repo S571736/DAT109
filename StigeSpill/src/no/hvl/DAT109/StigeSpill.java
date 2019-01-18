@@ -15,18 +15,19 @@ public class StigeSpill {
         return spiller;
     }
 
-    public void init(){
+    private void init(){
         //opprettSpiller("Solo");
         enSpiller.getBrikke().setPos(0);
     }
 
-    public void spillRundeMan() {
+    private void spillRundeMan() {
         //TODO
     }
 
-    public void spillRundeAuto(){
+    private void spillRundeAuto(){
         while(status==false){
-
+            int pos = enSpiller.getBrikke().getPos();
+            
         }
     }
 }
